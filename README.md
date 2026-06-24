@@ -115,9 +115,9 @@ My mission is simple:
 
 # 📬 Contact Me
 
-📧 Email: your-email@example.com  
+📧 Email: subashbhusal33h@gmail.com  
 🌍 Portfolio: https://subash33.netlify.app  
-💼 GitHub: https://github.com/yourusername  
+💼 GitHub: https://github.com/subashbhusal-n 
 
 ---
 
